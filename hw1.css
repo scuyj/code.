@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+}
+
+#first {
+    font-size: 30px;
+    font-family: "黑体";
+    margin-top: 50px;
+}
+
+#second {
+    font-size: 12px;
+    text-align: right;
+    margin-bottom: 50px;
+}
+
+p {
+    font-size: 12px;
+    width: :400px;
+    margin: 18px auto;
+}
